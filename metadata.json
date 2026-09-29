@@ -1,0 +1,6 @@
+{
+  "name": "Petualangan Matematika Ceria",
+  "description": "Game belajar matematika interaktif dan menyenangkan untuk anak usia dini dengan karakter lucu, audio interaktif, dan sistem poin motivasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
